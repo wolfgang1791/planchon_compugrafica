@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1542921608 source:c:\users\jonathan\documents\codeblocks\3rapractica\main.cpp
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<gl/glut.h>
+	<iostream>
+
+935113144 b:\fake\amadeus\ciclo vii(y medio)\compu grafica\opengl95\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+832837944 b:\fake\amadeus\ciclo vii(y medio)\compu grafica\opengl95\include\gl\gl.h
+
+832394118 b:\fake\amadeus\ciclo vii(y medio)\compu grafica\opengl95\include\gl\glu.h
+	<GL/gl.h>
+
